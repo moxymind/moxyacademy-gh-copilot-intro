@@ -1,0 +1,13 @@
+{
+  "name": "playwright-copilot-demo",
+  "version": "1.0.0",
+  "description": "Minimal Playwright setup for GitHub Copilot training",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "latest",
+    "@types/node": "latest",
+    "typescript": "latest"
+  }
+}
