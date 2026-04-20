@@ -114,6 +114,8 @@ Suggested prompt:
 
 The goal of this exercise is not only to see a different answer. It is to see *which part of the answer changed because the rule became automatic*.
 
+> Example solution is on the branch `solution/module-02-logic-customization`
+
 ### 2.2.4 How To Verify Instructions Were Applied
 
 If the behavior is unclear, verify it directly instead of guessing.
@@ -204,6 +206,8 @@ Why a prompt file is the right tool here:
 Now compare that with a one-off question such as *"Why is the login page using `[data-test=\"error\"]` for the error message locator?"*
 
 Do **not** use the prompt file for that question. It is not a reusable workflow.
+
+> Example solution is on the branch `solution/module-02-logic-customization`
 
 ### 2.3.4 Instructions Vs Prompt Files Cheat Sheet
 
