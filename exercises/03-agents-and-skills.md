@@ -79,6 +79,8 @@ Optional later:
    - missing test suggestions
    - concrete next test ideas
 
+> Example solution is on the branch `solution/module-03-agents-and-skills`
+
 ---
 
 ## 3.3 One Simple Skill and How Agent Uses It
@@ -182,6 +184,8 @@ Why this works:
 
 Goal: see that skills package reusable know-how, while agents control role and tool boundaries.
 
+> Example solution is on the branch `solution/module-03-agents-and-skills`
+
 ---
 
 ## 3.4 Orchestrate Multiple Agents (Coordinator + Workers)
@@ -250,6 +254,8 @@ Notes:
 
 - By default, subagents do not invoke further subagents.
 - Recursive nesting can be enabled with `chat.subagents.allowInvocationsFromSubagents` when needed.
+
+> Example solution is on the branch `solution/module-03-agents-and-skills`
 
 ---
 
