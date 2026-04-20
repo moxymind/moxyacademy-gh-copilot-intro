@@ -1,0 +1,3 @@
+- After implementing a code change, run the affected Playwright tests before finishing.
+- Do not use `waitForTimeout`; rely on Playwright auto-waiting and explicit assertions.
+- Prefer strict TypeScript-friendly code and avoid `any`.
