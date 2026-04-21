@@ -1,0 +1,11 @@
+{
+  "hooks": {
+    "PreToolUse": [
+      {
+        "type": "command",
+        "command": "node scripts/hooks/risky-command-approval.mjs",
+        "timeout": 30
+      }
+    ]
+  }
+}
