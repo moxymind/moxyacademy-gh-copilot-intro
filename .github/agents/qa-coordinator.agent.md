@@ -3,7 +3,7 @@ name: QA Coordinator
 description: Coordinate specialized QA reviews and merge findings.
 tools: ['agent', 'read', 'search']
 agents: ['Correctness Reviewer', 'Coverage Reviewer']
-model: GPT-5.4 (copilot)
+model: Claude Haiku 4.5 (copilot)
 ---
 
 You are a coordinator.

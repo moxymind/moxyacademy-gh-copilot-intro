@@ -158,8 +158,6 @@ Add this block to your existing `.github/agents/qa-reviewer.agent.md` body:
 ```markdown
 Skill usage rule:
 - For any test review or test design request, apply the `qa-test-checklist` skill if available.
-- Use the skill checklist as the baseline review process.
-- Keep the final answer in this order: Strengths, Risks, Missing tests, Suggested next test case.
 ```
 
 Why this works:
@@ -202,7 +200,7 @@ name: QA Coordinator
 description: Coordinate specialized QA reviews and merge findings.
 tools: ['agent', 'read', 'search']
 agents: ['Correctness Reviewer', 'Coverage Reviewer']
-model: GPT-5.4 (copilot)
+model: Claude Haiku 4.5 (copilot)
 ---
 
 You are a coordinator.
