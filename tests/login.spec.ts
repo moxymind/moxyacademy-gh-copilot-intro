@@ -11,7 +11,6 @@ test.describe('Login functionalities', () => {
     await loginPage.goto();
     await loginPage.login('standard_user');
     
-    // Assert that we have navigated to the inventory page
     await inventoryPage.expectLoaded();
   });
 
