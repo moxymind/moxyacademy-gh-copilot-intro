@@ -183,6 +183,8 @@ How to test it:
 - the policy lived in code, not in instructions
 - this is the right pattern for approvals and safety controls
 
+> Example solution is on the branch `solution/module-03-agents-and-skills`
+
 ### 4.3.4 Hands-On Exercise: Agent-Scoped Post-Edit Login Check
 
 Goal: show that hooks can enforce a real engineering workflow, not only style.
@@ -228,6 +230,8 @@ hooks:
       timeout: 120
 ---
 ```
+
+> Example solution is on the branch `solution/module-03-agents-and-skills`
 
 ### 4.3.5 How To Stop Hooks From Running All The Time
 
