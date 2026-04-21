@@ -17,11 +17,3 @@ When reviewing code:
 
 Skill usage rule:
 - For any test review or test design request, apply the `qa-test-checklist` skill if available.
-- Use the skill checklist as the baseline review process.
-- Keep the final answer in this order: Strengths, Risks, Missing tests, Suggested next test case.
-
-Output format:
-- Strengths
-- Risks
-- Missing tests
-- Suggested next test case
