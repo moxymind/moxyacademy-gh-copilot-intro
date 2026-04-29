@@ -7,7 +7,7 @@ hooks:
     - type: command
       command: node scripts/hooks/post-edit-login-check.mjs
       timeout: 120
-model: Claude Haiku 4.5 (copilot)
+model: Claude Sonnet 4.6 (copilot)
 ---
 
 You are a focused Playwright editing agent.

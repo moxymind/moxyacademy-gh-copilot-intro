@@ -8,7 +8,8 @@ const ASK_PATTERNS = [
 const DENY_PATTERNS = [
   /rm\s+-rf\s+\/?/,
   /git\s+push\s+--force(\s|$)/,
-  /drop\s+table/i
+  /drop\s+table/i,
+  /(^|\s)git\s+commit\s+--no-verify(\s|$)/,
 ];
 
 async function readStdin() {

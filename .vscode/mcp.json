@@ -1,0 +1,15 @@
+{
+	"servers": {
+        "appium-mcp": {
+            "type": "stdio",
+            "command": "npx",
+            "args": [
+              "appium-mcp@latest"
+            ],
+            // "env": {
+            //   "ANDROID_HOME": "/path/to/android/sdk",
+            //   "CAPABILITIES_CONFIG": "/path/to/your/capabilities.json"
+            // }
+        }
+	}
+}
