@@ -1,7 +1,7 @@
 # moxyacademy-gh-copilot-intro
 
 This repository supports a tutorial video series about GitHub Copilot. 
-Links to videomaterial in Google Classroom is here [GH Copilot Intro](https://classroom.google.com/c/NTQ5ODk1MDYyMjE3?cjc=6l7h2s4).
+Links to videomaterial are in Google Classroom in section 'Extras'.
 
 ## How to use this repo
 
